@@ -1,0 +1,26 @@
+{
+  "name": "webnovi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auth0": "^4.10.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-jwt": "^8.4.1",
+    "express-oauth2-jwt-bearer": "^1.6.0",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "passport": "^0.7.0",
+    "passport-auth0": "^1.4.4",
+    "pg": "^8.13.1",
+    "qrcode": "^1.5.4",
+    "sequelize": "^6.37.5"
+  }
+}
